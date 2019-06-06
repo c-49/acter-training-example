@@ -1,0 +1,21 @@
+{
+  "name": "acter-training-example",
+  "version": "1.0.0",
+  "description": "This is the base example shown by Nick. To get a better explanation on how this works, \r check out the recording.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c-49/acter-training-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c-49/acter-training-example/issues"
+  },
+  "homepage": "https://github.com/c-49/acter-training-example#readme"
+}
